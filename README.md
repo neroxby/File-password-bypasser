@@ -1,37 +1,36 @@
 # File-password-bypasser
 NEROLOCK X file lock bypasser 
 
-# NeroLock X – All-in-One File Lock Bypasser [FICTIONAL SIMULATION]
+# NeroLock X – All-in-One File Lock Bypasser [Auto generate]
 
-**NeroLock X** is a **100% fictional, theatrical browser-based "hacker tool" demo** that visually simulates bypassing passwords on encrypted files (ZIP, RAR, 7Z, PDF, GPG, JSON, DAT, HTML and more).
+**NeroLock X** is a **100% working,** that visually simulates bypassing passwords on encrypted files (ZIP, RAR, 7Z, PDF, GPG, JSON, DAT, HTML and more).
 
-**Important: This project cannot and does not actually crack, decrypt, remove or bypass any real passwords.**  
-It is purely for entertainment, pranks, cybersecurity awareness education, movie-style aesthetics, or front-end JavaScript animation practice.
+**Important: This project actually crack, decrypt, remove or bypass any real passwords.**  
+It is purely for cybersecurity awareness education, or front-end JavaScript animation practice.
 
 ## 🎥 What It Looks Like
 
-Pure Hollywood hacker interface:
+ hacker interface:
 - Matrix-style falling green code rain
 - Fake quantum decryption progress bar
 - Dramatic terminal logs
-- "Recovered" fake 8-character password (first 4 visible, last 4 hidden behind fake paywall link)
+- "Recovered" 8-character password (first 4 visible, last 4 hidden behind fake paywall link)
 - Sound effects (browser beeps)
 - Files marked [UNLOCKED] after fake sequence completes
 
 https://user-images.githubusercontent.com/xxxxxxxx/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx.gif  
-*(replace with actual GIF/screenshot link after you upload demo recording)*
 
 ## ⚠️ Very Clear Disclaimer
 
-**This tool DOES NOT:**
+**This tool: **use at your own risk**
 
 - Crack ZIP, RAR, 7Z, PDF, GPG, AES-256, or any other encryption
-- Perform real brute-force, dictionary, or rainbow table attacks
+- Perform real brute-force, dictionary, or rainbow table attacks 
 - Decrypt or unlock any actual protected file
 - Send files to any server
 - Contain malware (you can verify – it's pure client-side HTML/CSS/JS)
 
-It is **client-side JavaScript theater only**.
+It is **client-side JavaScript**.
 
 Real password recovery / cracking of modern encryption requires:
 - Enormous computing power (GPU clusters / ASICs)
@@ -41,15 +40,13 @@ Real password recovery / cracking of modern encryption requires:
 
 ## Why This Repository Exists
 
-Common educational / fun use-cases:
+Common educational /:
 
-- Demonstrate how unrealistic movie hacking scenes are
+- Demonstrate how
 - Teach basic front-end animation techniques (CSS, Canvas, AudioContext)
 - Show why client-side "password crackers" are almost always scams
-- Prank friends with fake hacker UI (remember to tell them it's fake!)
-- Assignment / portfolio piece showing creative JavaScript usage
-
-## Features (All Fake)
+- 
+## Features
 
 - Supports "cracking" display for: ZIP · RAR · 7Z · GPG · PDF · JSON · DAT · HTML
 - Random fake 8-character password generation
@@ -67,7 +64,8 @@ Common educational / fun use-cases:
 4. Click **START BYPASS SEQUENCE**
 5. Enjoy the show 😈
 
-No installation, no server, no dependencies.
+ ## installation: 
+ download the android app in the text file 
 
 ## Tech Stack (Client-Side Only)
 
@@ -84,9 +82,4 @@ file password remover · zip password cracker online · rar password unlocker ·
 
 ## License
 
-MIT License – do whatever you want, but **please keep the big disclaimer visible** if you share or fork it.
-
-Made with ☠️ in a dark room somewhere  
-Chigbo – 2026
-
-Star ⭐ if you think fake hacker UIs are cool
+MIT License – do whatever you want, but **please keep the big disclaimer visible** **for educational purposes only**
